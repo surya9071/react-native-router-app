@@ -1,0 +1,3 @@
+rootProject.name = 'SkyDrive'
+
+include ':app'
